@@ -15,7 +15,7 @@ export default function Hero() {
                 </div>
               </div>
               <h1 class="display-3 fw-bolder mb-5">
-                <span class="text-gradient d-inline">Biodata Singkat Saya</span>
+                <span class="text-gradient d-inline">Virgil Steven Weol</span>
               </h1>
               <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xxl-start mb-3">
                 <Link
