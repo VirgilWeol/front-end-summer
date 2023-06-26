@@ -1,0 +1,35 @@
+{
+  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" },
+  "education": [
+    {
+      "id": 1,
+      "name": "SD Advent Argapura",
+      "location": "Jayapura, Papua",
+      "year": "2008 - 2014",
+      "description": "Pendidikan sekolah dasar di SD Advent Argapura di Jayapura, Papua."
+    },
+    {
+      "id": 2,
+      "name": "SMP Advent Argapura",
+      "location": "Jayapura, Papua",
+      "year": "2014 - 2017",
+      "description": "Pendidikan sekolah menengah pertama di SMP Advent Argapura di Jayapura, Papua."
+    },
+    {
+      "id": 3,
+      "name": "SLA Tompaso",
+      "location": "Tompaso 2, Sulawesi Utara",
+      "year": "2017 - 2020",
+      "description": "Pendidikan sekolah menengah atas di SLA Tompaso di Tompaso 2, Sulawesi Utara."
+    },
+    {
+      "id": 4,
+      "name": "Universitas Klabat",
+      "location": "Airmadidi, Sulawesi Utara",
+      "year": "2020 - Sekarang",
+      "description": "Saat ini menempuh pendidikan di Universitas Klabat di Airmadidi, Sulawesi Utara."
+    }
+  ]
+}
